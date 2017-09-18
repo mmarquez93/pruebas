@@ -1,2 +1,2 @@
 
-<?php voy a probar cosas ?>
+<?php phpinfo(); ?>
